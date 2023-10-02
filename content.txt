@@ -1,0 +1,24 @@
+header:
+MS-Store Home Collection Store About Login
+
+Hero-Section:
+h1:
+MADHAV SINGH
+BOOK SHOP
+
+p:
+Where stories come to life.
+Discover worlds within our pages.
+Get lost in the magic of words.
+
+button:
+Explore Collection.
+
+Color:
+#EBEBEB-White
+#C7BDB4-Logo
+#DABD93-para.
+#2A0E0A-black-primary.
+#6D301B-brown-primary.
+#9e5f3e-light-brown-primary.
+#7c736c-grey-primary.

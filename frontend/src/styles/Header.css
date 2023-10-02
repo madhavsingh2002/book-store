@@ -1,0 +1,22 @@
+.Header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-content {
+    width: 491px;
+    height: 35px;
+    color: var(--white);
+    justify-content: space-between;
+    
+}
+
+.logo {
+    color: #C7BDB4;
+    font-family: Zen Antique Soft;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
